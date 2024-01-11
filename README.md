@@ -1,7 +1,7 @@
 
 <div align="center">
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=25&duration=7000&pause=1000&color=2b2b2b&center=true&vCenter=true&multiline=true&repeat=false&width=460&height=80&lines=Welcome+to+Minuk+Hwang's+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=222222&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+My+name+is+Minuk+Hwang)](https://git.io/typing-svg)
   
 </div>
 
