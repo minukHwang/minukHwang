@@ -17,6 +17,8 @@
 
 <br/>
 
+<center>
+
 ### Education
 - SSAFY 11기 자바 비전공 7반
 - 디자인 전공 (B.S. in Human Environment & Design)
@@ -25,5 +27,7 @@
 - MBTI : INTP
 - Hobby : Game
 
+</center>
 
-
+<br/>
+<br/>
