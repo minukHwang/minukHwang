@@ -27,8 +27,6 @@ MBTI : INTP
 <br/>
 Hobby : Game
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U7449cbkq-c?si=KM2CMkxs32tfPjaK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <br/>
 
 </div>
