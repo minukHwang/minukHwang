@@ -1,13 +1,15 @@
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=222222&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+My+name+is+Minuk+Hwang)](https://git.io/typing-svg)
-  
-</div>
-
 # 🍔 황민욱 (Minuk Hwang)
 
-```
-Hello My name is Minuk Hwang.
-```
+### Introduction
+안녕하세요, 저는 디자인을 전공하다가 개발자의 길을 향하게 된 황민욱입니다.
+<br/>
+최근에 SSAFY 11기에 합격해서 열심히 공부하고 있습니다!
+
+### Background
+- SSAFY 11기 자바 비전공 7반
+
+### MBTI
+- INTP
+
+
 
