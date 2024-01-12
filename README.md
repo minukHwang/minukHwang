@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=500&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=HELLO+MY+NAME+IS;MINUK+HWANG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&color=029C3B&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=HELLO%2C+MY+NAME+IS;MINUK+HWANG)](https://git.io/typing-svg)
 
 <br/>
 
@@ -121,7 +121,7 @@ MBTI : I(E)NT(F)P(J)
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=500&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=FRONT+END;BACK+END;FULL+STACK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=500&color=EB3400FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=FRONT+END;BACK+END;FULL+STACK)](https://git.io/typing-svg)
 
 <br/>
 <br/>
