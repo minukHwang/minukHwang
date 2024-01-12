@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=500&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=HELLO+MY+NAME+IS;MINUK+HWANG)](https://git.io/typing-svg)
 
----
+<br/>
 
 
 <h4> 안녕하세요, 저는 디자인을 전공을 시작으로 
