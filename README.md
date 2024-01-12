@@ -61,7 +61,9 @@ MBTI : I(E)NT(F)P(J)
             <img src="./assets/p0.png" alt="p0" style="margin-bottom:15px;"/>
         </a>
         <img src="./assets/p1.png" alt="p1" style="margin-bottom:15px;"/>
-        <img src="./assets/interior.png" alt="p2" style="margin-bottom:15px;"/>
+        <a href = "https://youtu.be/ZSjliGWl3pg?si=DzkJWOUN1gCITFZy">
+            <img src="./assets/interior.png" alt="p3" style="margin-bottom:15px;"/>
+        </a>
         <img src="./assets/p3.png" alt="p3" style="margin-bottom:15px;"/>
         <img src="./assets/p4.png" alt="p4" style="margin-bottom:15px;"/>
         <img src="./assets/p5.png" alt="p5" style="margin-bottom:15px;"/>
