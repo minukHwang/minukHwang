@@ -33,6 +33,24 @@
 
 <br/>
 
+## ABOUT ME
+MBTI : I(E)NT(F)P(J)
+
+<details>
+  <summary>나는 누구인가</summary>
+    <img src="./assets/mbti.png" alt="mbti" />
+</details>
+
+<br/>
+
+<img src="./assets/crayon.gif" alt="rgb" style="width:400px;"/>
+
+
+짱구를 좋아합니다.
+
+
+<br/>
+
 ## MAJOR
 디자인 전공 (B.S. in Human Environment & Design)
 
