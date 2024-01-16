@@ -138,6 +138,7 @@ MBTI : I(E)NT(F)P(J)
 <img src="./assets/omikuji.jpg" alt="rgb" style="width:400px;"/>
 
 <br/>
+<br/>
 
 > 여러분이 인생의 여정에서 다른 사람들을 따라가지 못하더라도, 여러분 자신의 올바른 길을 걷는 것을 포기하지 마세요.
 
