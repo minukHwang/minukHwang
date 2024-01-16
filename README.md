@@ -41,12 +41,13 @@ MBTI : I(E)NT(F)P(J)
     <img src="./assets/mbti.png" alt="mbti" />
 </details>
 
-<br/>
-
-<img src="./assets/crayon.gif" alt="rgb" style="width:400px;"/>
-
-
-짱구를 좋아합니다.
+<details>
+  <summary>좋아하는 것</summary>
+    <div style="display:flex; flex-direction:column; justify-contents:center;">
+        <img src="./assets/crayon.gif" alt="rgb" style="width:400px; margin-bottom:15px;"/>
+        <img src="./assets/macdonald.png" alt="hamburger"/>
+    </div>
+</details>
 
 
 <br/>
@@ -85,6 +86,8 @@ MBTI : I(E)NT(F)P(J)
 프로덕트 디자이너로 시작했으나...
 
 콘텐츠 디자이너가 되었다.
+
+![dunk](./assets/dunk.png)
 
 <br/>
 
@@ -129,5 +132,14 @@ MBTI : I(E)NT(F)P(J)
 기초가 탄탄한 개발자가 되고 싶습니다.
 
 몰입의 경험 SSAFY에서!!
+
+<br/>
+
+![omikuji](./assets/omikuji.jpg)
+> 여러분이 인생의 여정에서 다른 사람들을 따라가지 못하더라도, 여러분 자신의 올바른 길을 걷는 것을 포기하지 마세요.
+
+<br/>
+
+![alphabet](./assets/alphabet.jpg)
 
 </div>
