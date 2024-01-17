@@ -5,8 +5,7 @@
 
 <br/>
 
-
-<h4> 안녕하세요, 저는 디자인을 전공을 시작으로 
+<h4> 안녕하세요, 저는 디자인을 전공을 시작으로
 
 <br/> 기술을 접목시켜 개발자가 되고 싶은 황민욱입니다. </h4>
 
@@ -34,6 +33,7 @@
 <br/>
 
 ## ABOUT ME
+
 MBTI : I(E)NT(F)P(J)
 
 <details>
@@ -49,10 +49,10 @@ MBTI : I(E)NT(F)P(J)
     </div>
 </details>
 
-
 <br/>
 
 ## MAJOR
+
 디자인 전공 (B.S. in Human Environment & Design)
 
 <details>
@@ -83,6 +83,7 @@ MBTI : I(E)NT(F)P(J)
 <br/>
 
 ## EXPERIENCE
+
 프로덕트 디자이너로 시작했으나...
 
 콘텐츠 디자이너가 되었다.
@@ -92,6 +93,7 @@ MBTI : I(E)NT(F)P(J)
 <br/>
 
 ## PROJECT
+
 <div>
     <a href="https://youtu.be/FHOyQGZ7Fbk?si=BbkwUqKXtkPBbXQA">
         <img src="./assets/ui-spy.png" alt="ui-spy" />
@@ -133,6 +135,12 @@ MBTI : I(E)NT(F)P(J)
 
 몰입의 경험 SSAFY에서!!
 
+<br/>
+<br/>
+
+[하고 싶은 것](https://minuk-card.vercel.app/)
+
+<br/>
 <br/>
 
 <img src="./assets/omikuji.jpg" alt="rgb" style="width:400px;"/>
