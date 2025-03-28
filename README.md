@@ -94,6 +94,8 @@ MBTI : I(E)NT(F)P(J)
 
 ## PROJECT
 
+인터랙티브 웹사이트 개발로 시작된 프론트엔드 개발자라는 꿈
+
 <div>
     <a href="https://youtu.be/FHOyQGZ7Fbk?si=BbkwUqKXtkPBbXQA">
         <img src="./assets/ui-spy.png" alt="ui-spy" />
@@ -132,8 +134,6 @@ MBTI : I(E)NT(F)P(J)
 <br/>
 
 기초가 탄탄한 개발자가 되고 싶습니다.
-
-몰입의 경험 SSAFY에서!!
 
 <br/>
 <br/>
