@@ -110,7 +110,7 @@
 
 ## 🎓 学歴 & コミュニティ
 
-* **延世大学校** - 人間環境デザイン学士（GPA: 4.14/4.5）
+* **Yonsei University** - B.A. Human Environment & Design (GPA: 4.14/4.5)
 * **Samsung Software Academy For Youth (SSAFY)** - Web開発（プロジェクト優秀賞）
 * **Google Developer Student Clubs (GDSC)** - コアメンバー（Solution Challenge Top 100）
 
@@ -129,3 +129,72 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=minimal&bg_color=ffffff&hide_border=true" height="150" alt="languages graph" />
   </picture>
 </div>
+
+<br/><br/><br/>
+
+<details>
+<summary><b>🎨 Beyond Code: Philosophy & Visuals (Click to expand)</b></summary>
+<br>
+
+<div align="center">
+  <h3>なぜ「White」なのか？</h3>
+  <br>
+  <p>
+    光が合わさって<b>白</b>になるように、私は複数の分野を組み合わせて<b>価値</b>を創造します。<br>
+    エンジニアリング、デザイン、ビジネスを統合し、<br/>
+    <b>技術的に堅牢で、視覚的に魅力的で、商業的に成功する</b>プロダクトを構築します。
+  </p>
+  <br>
+  
+  <div align="center" style="font-size: 16px; line-height: 1.8;">
+    <b>🔵 エンジニアリング</b>は<i>安定性</i>を生み出す<br>
+    <b>🟢 デザイン</b>は<i>使いやすさ</i>を生み出す<br>
+    <b>🔴 ビジネス</b>は<i>インパクト</i>を生み出す
+  </div>
+  <br>
+  
+  <div align="center" style="font-size: 20px;">
+    <b>= ⚪️ ファン・ミヌク（The White Light）</b>
+  </div>
+
+</div>
+
+<br>
+<div align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</div>
+<br>
+
+<div align="center">
+  <h3>🧩 Creative Playground</h3>
+  <p>ビジュアル実験 & デザインアーカイブ</p>
+  <br>
+
+  <a href="https://youtu.be/DMmyWvAcLIQ?si=Y0aP64kB2AHGZ-4C">
+    <img src="./assets/p0.png" width="80%" alt="p0" style="border-radius:10px;"/>
+  </a>
+  <br><br>
+
+  <img src="./assets/p1.png" width="80%" alt="p1" style="border-radius:10px;"/>
+  <br><br>
+
+  <a href="https://youtu.be/ZSjliGWl3pg?si=DzkJWOUN1gCITFZy">
+    <img src="./assets/interior.png" width="80%" alt="interior" style="border-radius:10px;"/>
+  </a>
+  <br><br>
+
+  <img src="./assets/p3.png" width="80%" alt="p3" style="border-radius:10px;"/>
+  <br><br>
+
+  <img src="./assets/p4.png" width="80%" alt="p4" style="border-radius:10px;"/>
+  <br><br>
+
+  <a href="https://youtu.be/FHOyQGZ7Fbk?si=BbkwUqKXtkPBbXQA">
+    <img src="./assets/ui-spy.png" width="80%" alt="ui-spy" style="border-radius:10px;"/>
+  </a>
+  <br><br>
+
+  <img src="./assets/p5.png" width="80%" alt="p5" style="border-radius:10px;"/>
+  <br><br>
+</div>
+
+</details>
+<br/>
