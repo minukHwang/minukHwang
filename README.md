@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
 
 **State & Styling**
 <br>
@@ -42,6 +41,10 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
+
+**Creative & 3D**
+<br>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
 
 **DevOps & Tools**
 <br>
@@ -74,6 +77,8 @@
 * **Growth:** Redesigned 'Style Challenge' reward mechanics, increasing unique user participation by **50% (2k → 3k)**.
 * **Marketing:** Collaborated with performance marketers to optimize ad creatives, achieving a **75% reduction in CPA** for sign-ups.
 
+**→ Frontend Impact:** This experience shaped my approach to building UIs—I now design component APIs and user flows with conversion metrics and behavioral data in mind.
+
 <br/>
 
 ## 💻 Featured Projects
@@ -81,11 +86,13 @@
 ### **🪐 ZeroGravity (3D Emotion Tracking Platform)**
 > **Tech:** Next.js 15, React 19, TypeScript, Three.js (GLSL), pnpm Monorepo
 
-A web platform that visualizes emotions as organic 3D planets.
+A web platform that helps users understand emotional patterns by visualizing daily moods as evolving 3D planets.
 
-* **Rendering:** Implemented custom GLSL shaders for organic planet visualization.
-* **Architecture:** Designed a `pnpm` monorepo architecture to share components between the Next.js web app and Chrome extension.
-* **Auth:** Implemented OAuth 2.0 with custom JWT lifecycle (15-min access / 30-day refresh) and cross-context session sync.
+* **Problem:** Traditional mood trackers rely on text logs, making it hard to spot emotional patterns over time.
+* **Solution:** Transforms emotion data into organic 3D visuals—each planet's color, texture, and motion reflects the user's emotional state.
+* **Rendering:** Implemented custom GLSL shaders for real-time organic planet generation.
+* **Architecture:** Designed a `pnpm` monorepo to share logic between the Next.js web app and Chrome extension.
+* **Auth:** Built OAuth 2.0 flow with custom JWT lifecycle (15-min access / 30-day refresh) and cross-context session sync.
 
 <div align="right">
   <a href="https://github.com/zerogravity-project/zerogravity-react">
