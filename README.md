@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸_English-000000?style=flat-square"/></a>
+  <a href="./README_JP.md"><img src="https://img.shields.io/badge/🇯🇵_日本語-000000?style=flat-square"/></a>
+  <a href="./README_KR.md"><img src="https://img.shields.io/badge/🇰🇷_한국어-000000?style=flat-square"/></a>
+</div>
+
 <div align="center">
   <br/><br/>
   
