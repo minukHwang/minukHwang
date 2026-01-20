@@ -12,8 +12,8 @@
   <h3>Hi, I'm Minuk Hwang.</h3>
   
   <p>
-    I am a <b>Frontend Developer</b> with a background in design, specializing in bridging the gap between design and engineering.<br>
-    I focus on building <b>scalable component architectures</b> and optimizing performance to deliver seamless user experiences.
+    I am a <b>Product-Minded Frontend Engineer</b> who bridges the gap between design, code, and business.<br>
+    I build <b>scalable architectures</b> that optimize performance and contribute to <b>sustainable product growth.</b>
   </p>
 
   <br/>
@@ -121,27 +121,29 @@ A web platform that visualizes emotions as organic 3D planets.
 <br/><br/><br/>
 
 <details>
-<summary><b>🎨 Design Roots & Philosophy (Click to expand)</b></summary>
+<summary><b>🎨 Beyond Code: Philosophy & Visuals (Click to expand)</b></summary>
 <br>
 
 <div align="center">
   <h3>Why "White"?</h3>
   <br>
   <p>
-    When the three primary colors of light (RGB) combine, they create the <b>brightest White.</b><br>
-    I integrate these three dimensions to deliver the most <b>clear and distinct value</b> as a developer.
+    Light combines to form <b>White</b>, and I combine disciplines to create <b>Value.</b><br>
+    I integrate Engineering, Design, and Business to build products that are<br/>
+    <b>technically sound, visually compelling, and commercially successful.</b>
   </p>
   <br>
   
-  <div align="center" style="font-size: 18px;">
-    <b>🔵 Engineering</b>
-    &nbsp;&nbsp;+&nbsp;&nbsp;
-    <b>🟢 Design</b>
-    &nbsp;&nbsp;+&nbsp;&nbsp;
-    <b>🔴 Business</b>
+  <div align="center" style="font-size: 16px; line-height: 1.8;">
+    <b>🔵 Engineering</b> creates <i>Stability</i><br>
+    <b>🟢 Design</b> creates <i>Usability</i><br>
+    <b>🔴 Business</b> creates <i>Impact</i>
   </div>
+  <br>
   
-  <h3>= ⚪️ Minuk Hwang (White)</h3>
+  <div align="center" style="font-size: 20px;">
+    <b>= ⚪️ Minuk Hwang (The White Light)</b>
+  </div>
 
 </div>
 
@@ -157,16 +159,29 @@ A web platform that visualizes emotions as organic 3D planets.
   <a href="https://youtu.be/DMmyWvAcLIQ?si=Y0aP64kB2AHGZ-4C">
     <img src="./assets/p0.png" width="80%" alt="p0" style="border-radius:10px;"/>
   </a>
+  <br><br>
+
   <img src="./assets/p1.png" width="80%" alt="p1" style="border-radius:10px;"/>
+  <br><br>
+
   <a href="https://youtu.be/ZSjliGWl3pg?si=DzkJWOUN1gCITFZy">
     <img src="./assets/interior.png" width="80%" alt="interior" style="border-radius:10px;"/>
   </a>
+  <br><br>
+
   <img src="./assets/p3.png" width="80%" alt="p3" style="border-radius:10px;"/>
+  <br><br>
+
   <img src="./assets/p4.png" width="80%" alt="p4" style="border-radius:10px;"/>
+  <br><br>
+
   <a href="https://youtu.be/FHOyQGZ7Fbk?si=BbkwUqKXtkPBbXQA">
     <img src="./assets/ui-spy.png" width="80%" alt="ui-spy" style="border-radius:10px;"/>
   </a>
+  <br><br>
+
   <img src="./assets/p5.png" width="80%" alt="p5" style="border-radius:10px;"/>
+  <br><br>
 </div>
 
 </details>
