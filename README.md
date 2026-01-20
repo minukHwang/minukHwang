@@ -104,8 +104,8 @@ A web platform that helps users understand emotional patterns by visualizing dai
 
 ## 🎓 Education & Community
 
-* **Samsung Software Academy For Youth (SSAFY)** - Web Development (Project Excellence Award)
 * **Yonsei University** - B.A. Human Environment & Design (GPA: 4.14/4.5)
+* **Samsung Software Academy For Youth (SSAFY)** - Web Development (Project Excellence Award)
 * **Google Developer Student Clubs (GDSC)** - Core Member (Solution Challenge Top 100)
 
 <br/>
