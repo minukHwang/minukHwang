@@ -121,12 +121,12 @@ A web platform that helps users understand emotional patterns by visualizing dai
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minukHwang&show_icons=true&theme=dark&hide_border=true&hide_rank=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=minukHwang&show_icons=true&theme=minimal&bg_color=ffffff&hide_border=true&hide_rank=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=minukHwang&show_icons=true&theme=default&hide_border=true&hide_rank=true" height="150" alt="stats graph" />
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=minimal&bg_color=ffffff&hide_border=true" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=default&hide_border=true" height="150" alt="languages graph" />
   </picture>
 </div>
 
