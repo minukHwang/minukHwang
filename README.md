@@ -59,12 +59,12 @@
 ### **LOTTE Innovate (Frontend Engineer)**
 *Aug 2024 - Present*
 
-> **Key Achievement: Scaled commerce service for 100k+ users & optimized rendering performance**
+> **Key Achievement: Optimized UI architecture & rendering performance for fan commerce platform (100k+ users)**
 
 * **Performance Optimization:** Optimized sprite-based effects with a custom tool, reducing asset size by **75% (8MB → 2MB)** and minimizing visual flicker.
 * **Architecture:** Designed a declarative UI architecture using the Builder Pattern, reducing implementation time by **87% (1 day → under 1 hour)**.
-* **System Design:** Structured a headless component layer with Radix primitives to support multi-brand design systems (FC Seoul, Samsung, etc.).
-* **Payment Module:** Engineered a unified payment module for both PC (iframe) and mobile (redirect) flows, standardizing 12+ exception cases.
+* **Payment Module:** Engineered a unified payment module for both PC (iframe) and mobile (redirect) flows, standardizing **12+ exception cases**.
+* **System Design:** Structured a headless component layer with Radix primitives to support multi-brand design systems (FC Seoul, FC Anyang, etc.).
 
 <br/>
 
