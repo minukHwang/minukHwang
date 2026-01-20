@@ -1,0 +1,131 @@
+<div align="right">
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸_English-000000?style=flat-square"/></a>
+  <a href="./README_JP.md"><img src="https://img.shields.io/badge/🇯🇵_日本語-000000?style=flat-square"/></a>
+  <a href="./README_KR.md"><img src="https://img.shields.io/badge/🇰🇷_한국어-000000?style=flat-square"/></a>
+</div>
+
+<div align="center">
+  <br/><br/>
+  
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=35&duration=3000&pause=1000&color=007AFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Frontend+Technology;Design+Creativity;Business+Insight;My+Color+is+White." alt="Typing SVG" />
+    </a>
+  </div>
+
+  <br/>
+  
+  <h3>안녕하세요, 황민욱입니다.</h3>
+  
+  <p>
+    디자인, 코드, 비즈니스의 간극을 연결하는 <b>프로덕트 마인드 프론트엔드 엔지니어</b>입니다.<br>
+    성능을 최적화하고 지속 가능한 프로덕트 성장에 기여하는 <b>확장 가능한 아키텍처</b>를 구축합니다.
+  </p>
+
+  <br/>
+
+  <div>
+    <a href="mailto:minuk.lucas.hwang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/minuk-hwang-934999157"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  </div>
+
+</div>
+
+<br/>
+
+## 🛠 기술 스택
+
+**Core**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+
+**상태 관리 & 스타일링**
+<br>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
+
+**Creative & 3D**
+<br>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
+
+**DevOps & 도구**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+
+<br/>
+
+## 🚀 경력
+
+### **롯데이노베이트 (프론트엔드 엔지니어)**
+*2024년 8월 - 현재*
+
+> **주요 성과: 팬 커머스 플랫폼(10만+ 유저)의 UI 아키텍처 및 렌더링 성능 최적화**
+
+* **성능 최적화:** 커스텀 툴로 스프라이트 기반 이펙트를 최적화하여 에셋 사이즈 **75% 감소(8MB → 2MB)**, 시각적 깜빡임 최소화.
+* **아키텍처:** Builder 패턴을 활용한 선언적 UI 아키텍처를 설계하여 구현 시간 **87% 단축(1일 → 1시간 미만)**.
+* **결제 모듈:** PC(iframe)와 모바일(리다이렉트) PG 플로우를 통합하는 결제 모듈을 구축하여 **12개 이상의 예외 케이스** 표준화.
+* **시스템 설계:** Radix 프리미티브를 활용한 헤드리스 컴포넌트 레이어를 구축하여 멀티 브랜드 디자인 시스템(FC 서울, FC 안양 등) 지원.
+
+<br/>
+
+### **크림 (프로덕트/콘텐츠 디자이너)**
+*2021년 6월 - 2022년 3월*
+
+> **주요 성과: 데이터 기반 UX 디자인으로 유저 인게이지먼트 향상**
+
+* **UX 전략:** 유저 페인포인트를 분석하여 중고 명품 마켓 서비스 기획 및 UX 기반 플로우 설계.
+* **그로스:** 'Style Challenge' 리워드 설계를 개선하여 유니크 유저 참여 **50% 증가(2,000 → 3,000명)**.
+* **마케팅:** 퍼포먼스 마케터와 협업하여 광고 크리에이티브를 최적화, 가입 **CPA 75% 감소**.
+
+**→ 프론트엔드 임팩트:** 이 경험이 UI 구축 접근법을 형성했습니다. 현재는 전환 지표와 행동 데이터를 고려하여 컴포넌트 API와 유저 플로우를 설계합니다.
+
+<br/>
+
+## 💻 주요 프로젝트
+
+### **🪐 ZeroGravity (3D 감정 트래킹 플랫폼)**
+> **기술:** Next.js 15, React 19, TypeScript, Three.js (GLSL), pnpm Monorepo
+
+일상의 감정을 진화하는 3D 행성으로 시각화하여 감정 패턴 이해를 돕는 웹 플랫폼.
+
+* **문제:** 기존 무드 트래커는 텍스트 로그에 의존하여 감정 패턴을 파악하기 어려움.
+* **해결:** 감정 데이터를 유기적인 3D 비주얼로 변환. 각 행성의 색상, 텍스처, 움직임이 유저의 감정 상태를 반영.
+* **렌더링:** 실시간 유기적 행성 생성을 위한 커스텀 GLSL 셰이더 구현.
+* **아키텍처:** Next.js 웹앱과 Chrome 익스텐션 간 로직을 공유하는 `pnpm` 모노레포 설계.
+* **인증:** 커스텀 JWT 라이프사이클(15분 액세스 / 30일 리프레시)과 크로스 컨텍스트 세션 동기화를 갖춘 OAuth 2.0 구축.
+
+<div align="right">
+  <a href="https://github.com/zerogravity-project/zerogravity-react">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+## 🎓 학력 & 커뮤니티
+
+* **연세대학교** - 인간환경디자인학 학사 (GPA: 4.14/4.5)
+* **삼성 청년 SW 아카데미 (SSAFY)** - 웹 개발 (프로젝트 우수상)
+* **Google Developer Student Clubs (GDSC)** - 코어 멤버 (Solution Challenge Top 100)
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minukHwang&show_icons=true&theme=dark&hide_border=true&hide_rank=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=minukHwang&show_icons=true&theme=minimal&bg_color=ffffff&hide_border=true&hide_rank=true" height="150" alt="stats graph" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=minimal&bg_color=ffffff&hide_border=true" height="150" alt="languages graph" />
+  </picture>
+</div>
