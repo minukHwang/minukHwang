@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 
-**상태 관리 & 스타일링**
+**State & Styling**
 <br>
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
@@ -52,7 +52,7 @@
 <br>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
 
-**DevOps & 도구**
+**DevOps & Tools**
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
@@ -74,7 +74,7 @@
 
 <br/>
 
-### **크림 (프로덕트/콘텐츠 디자이너)**
+### **KREAM (프로덕트/콘텐츠 디자이너)**
 *2021년 6월 - 2022년 3월*
 
 > **주요 성과: 데이터 기반 UX 디자인으로 유저 인게이지먼트 향상**
@@ -110,7 +110,7 @@
 
 ## 🎓 학력 & 커뮤니티
 
-* **연세대학교** - 인간환경디자인학 학사 (GPA: 4.14/4.5)
+* **연세대학교** - 생활디자인학 학사 (GPA: 4.14/4.5)
 * **삼성 청년 SW 아카데미 (SSAFY)** - 웹 개발 (프로젝트 우수상)
 * **Google Developer Student Clubs (GDSC)** - 코어 멤버 (Solution Challenge Top 100)
 
@@ -129,3 +129,73 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=minimal&bg_color=ffffff&hide_border=true" height="150" alt="languages graph" />
   </picture>
 </div>
+
+
+<br/><br/><br/>
+
+<details>
+<summary><b>🎨 Beyond Code: Philosophy & Visuals (Click to expand)</b></summary>
+<br>
+
+<div align="center">
+  <h3>왜 "White"인가?</h3>
+  <br>
+  <p>
+    빛이 모여 <b>흰색</b>이 되듯, 저는 여러 분야를 결합해 <b>가치</b>를 창출합니다.<br>
+    엔지니어링, 디자인, 비즈니스를 통합하여<br/>
+    <b>기술적으로 견고하고, 시각적으로 매력적이며, 상업적으로 성공하는</b> 프로덕트를 만듭니다.
+  </p>
+  <br>
+  
+  <div align="center" style="font-size: 16px; line-height: 1.8;">
+    <b>🔵 엔지니어링</b>은 <i>안정성</i>을 만든다<br>
+    <b>🟢 디자인</b>은 <i>사용성</i>을 만든다<br>
+    <b>🔴 비즈니스</b>는 <i>임팩트</i>를 만든다
+  </div>
+  <br>
+  
+  <div align="center" style="font-size: 20px;">
+    <b>= ⚪️ 황민욱 (The White Light)</b>
+  </div>
+
+</div>
+
+<br>
+<div align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</div>
+<br>
+
+<div align="center">
+  <h3>🧩 Creative Playground</h3>
+  <p>비주얼 실험 & 디자인 아카이브</p>
+  <br>
+
+  <a href="https://youtu.be/DMmyWvAcLIQ?si=Y0aP64kB2AHGZ-4C">
+    <img src="./assets/p0.png" width="80%" alt="p0" style="border-radius:10px;"/>
+  </a>
+  <br><br>
+
+  <img src="./assets/p1.png" width="80%" alt="p1" style="border-radius:10px;"/>
+  <br><br>
+
+  <a href="https://youtu.be/ZSjliGWl3pg?si=DzkJWOUN1gCITFZy">
+    <img src="./assets/interior.png" width="80%" alt="interior" style="border-radius:10px;"/>
+  </a>
+  <br><br>
+
+  <img src="./assets/p3.png" width="80%" alt="p3" style="border-radius:10px;"/>
+  <br><br>
+
+  <img src="./assets/p4.png" width="80%" alt="p4" style="border-radius:10px;"/>
+  <br><br>
+
+  <a href="https://youtu.be/FHOyQGZ7Fbk?si=BbkwUqKXtkPBbXQA">
+    <img src="./assets/ui-spy.png" width="80%" alt="ui-spy" style="border-radius:10px;"/>
+  </a>
+  <br><br>
+
+  <img src="./assets/p5.png" width="80%" alt="p5" style="border-radius:10px;"/>
+  <br><br>
+</div>
+
+</details>
+<br/>
