@@ -65,12 +65,13 @@
 ### **LOTTE Innovate (Frontend Engineer)**
 *Aug 2024 - Present*
 
-> **Key Achievement: Optimized UI architecture & rendering performance for fan commerce platform (100k+ users)**
+> **Key Achievement: Delivered end-to-end fan commerce and rewards flows for major sports IPs (FC Seoul, FC Anyang, Suwon Samsung), serving 100,000+ users**
 
-* **Performance Optimization:** Optimized sprite-based effects with a custom tool, reducing asset size by **75% (8MB → 2MB)** and minimizing visual flicker.
+* **Performance Optimization:** Optimized sprite-based effects with a two-stage Sharp compression pipeline, reducing asset size by **75% (8MB → 2MB)**.
 * **Architecture:** Designed a declarative UI architecture using the Builder Pattern, reducing implementation time by **87% (1 day → under 1 hour)**.
-* **Payment Module:** Engineered a unified payment module for both PC (iframe) and mobile (redirect) flows, standardizing **12+ exception cases**.
-* **System Design:** Structured a headless component layer with Radix primitives to support multi-brand design systems (FC Seoul, FC Anyang, etc.).
+* **Payment Module:** Engineered a unified payment module by formalizing **5-stage payment flow and 10 error types** across PC (iframe) and mobile (redirect), reducing per-brand integration code from **2,300 to 30 lines** and effort from **3 days to 1 hour**.
+* **System Design:** Established a **4-Layer CSS Token architecture** with Radix + CVA + Tailwind for a 10+ brand platform, reducing component duplication by **83%+** and new brand onboarding from **1 man-day to under 1 hour**.
+
 
 <br/>
 
@@ -83,7 +84,7 @@
 * **Growth:** Redesigned 'Style Challenge' reward mechanics, increasing unique user participation by **50% (2k → 3k)**.
 * **Marketing:** Revamped Instagram strategy, enhancing content aesthetics and driving **20,000+ follower growth**.
 
-**→ Frontend Impact:** This experience shaped my approach to building UIs—I now design component APIs and user flows with conversion metrics and behavioral data in mind.
+**→ Frontend Impact:** This experience shaped my approach to building UIs, I now design component APIs and user flows with conversion metrics and behavioral data in mind.
 
 <br/>
 
@@ -95,10 +96,11 @@
 A web platform that helps users understand emotional patterns by visualizing daily moods as evolving 3D planets.
 
 * **Problem:** Traditional mood trackers rely on text logs, making it hard to spot emotional patterns over time.
-* **Solution:** Transforms emotion data into organic 3D visuals—each planet's color, texture, and motion reflects the user's emotional state.
-* **Rendering:** Implemented custom GLSL shaders for real-time organic planet generation.
-* **Architecture:** Designed a `pnpm` monorepo to share logic between the Next.js web app and Chrome extension.
-* **Auth:** Built OAuth 2.0 flow with custom JWT lifecycle (15-min access / 30-day refresh) and cross-context session sync.
+* **Solution:** Transforms emotion data into organic 3D visuals. Each planet's color, texture, and motion reflects the user's emotional state.
+* **Rendering:** Improved framerate from **29fps to 60fps** by removing redundant GLSL shader noise calls by **92%** and reducing triangle count by **76%** via LOD subdivision.
+* **Bundle Optimization:** Resolved barrel export issue causing 712KB Three.js to load on non-3D pages, reducing First Load JS by **58%** and boosting Lighthouse score from **66 to 97**.
+* **Monorepo:** Structured a `pnpm` monorepo sharing 3D components between Next.js web and Chrome extension (Vite + Manifest V3).
+* **Auth:** Secured cross-context authentication via **OAuth 2.0 + JWT** (15-min access / 30-day refresh).
 
 <div align="right">
   <a href="https://github.com/zerogravity-project/zerogravity-react">
