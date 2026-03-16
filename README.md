@@ -65,7 +65,7 @@
 ### **LOTTE Innovate (Frontend Engineer)**
 *Aug 2024 - Present*
 
-> **Key Achievement: Delivered end-to-end fan commerce and rewards flows for major sports IPs (FC Seoul, FC Anyang, Suwon Samsung), serving 100,000+ users**
+> **Key Achievement: Optimized UI architecture & rendering performance for fan commerce platform (100k+ users)**
 
 * **Performance Optimization:** Optimized sprite-based effects with a two-stage Sharp compression pipeline, reducing asset size by **75% (8MB → 2MB)**.
 * **Architecture:** Designed a declarative UI architecture using the Builder Pattern, reducing implementation time by **87% (1 day → under 1 hour)**.
