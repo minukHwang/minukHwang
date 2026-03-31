@@ -98,7 +98,7 @@ A web platform that helps users understand emotional patterns by visualizing dai
 
 * **Problem:** Traditional mood trackers rely on text logs, making it hard to spot emotional patterns over time.
 * **Solution:** Transforms emotion data into organic 3D visuals. Each planet's color, texture, and motion reflects the user's emotional state.
-* **Rendering:** Improved framerate from **29fps to 60fps** by removing redundant GLSL shader noise calls by **92%** and reducing triangle count by **76%** via LOD subdivision.
+* **Rendering:** Improved framerate from **29fps to 61fps** by removing redundant GLSL shader noise calls by **92%** and reducing triangle count by **88%** via LOD subdivision.
 * **Bundle Optimization:** Resolved barrel export issue causing 712KB Three.js to load on non-3D pages, reducing First Load JS by **58%** and boosting Lighthouse score from **66 to 97**.
 * **Monorepo:** Structured a `pnpm` monorepo sharing 3D components between Next.js web and Chrome extension (Vite + Manifest V3).
 * **Auth:** Secured cross-context authentication via **OAuth 2.0 + JWT** (15-min access / 30-day refresh).
