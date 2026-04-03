@@ -63,7 +63,7 @@
 
 ## 🚀 職務経歴
 
-### **LOTTE Innovate（フロントエンドエンジニア）** &nbsp; <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
+### **LOTTE Innovate（フロントエンドエンジニア）**
 *2024年8月 - 現在*
 
 > **主な成果：ファンコマースプラットフォーム（10万人以上のユーザー）のUIアーキテクチャとレンダリングパフォーマンスを最適化**
@@ -72,6 +72,10 @@
 * **アーキテクチャ：** Builderパターンを用いた宣言的UIアーキテクチャを設計し、実装時間を**87%短縮（1日 → 1時間未満）**。
 * **決済モジュール：** ブランド別に分散した決済ロジックを**5段階フロー・10種類のエラー**で規格化し共通決済モジュールを設計。ブランド別コード**2,300行 → 30行**、連携工数**3日 → 1時間**。
 * **システム設計：** **4-Layer CSSトークンアーキテクチャ**（Radix + CVA + Tailwind）で10+ブランドプラットフォームを運用。コード量**83%+削減**、新規ブランドオンボーディング**1 man-day → 1時間未満**。
+
+<div align="right">
+  <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
+</div>
 
 <br/>
 
@@ -90,7 +94,7 @@
 
 ## 💻 主要プロジェクト
 
-### **🪐 ZeroGravity（3D感情トラッキングプラットフォーム）**
+### **🪐 Zero Gravity（3D感情トラッキングプラットフォーム）**
 > **技術：** Next.js 15, React 19, TypeScript, Three.js (GLSL), pnpm Monorepo
 
 日々の感情を進化する3D惑星として可視化し、感情パターンの理解を助けるWebプラットフォーム。

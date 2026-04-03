@@ -63,7 +63,7 @@
 
 ## 🚀 경력
 
-### **롯데이노베이트 (프론트엔드 엔지니어)** &nbsp; <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
+### **롯데이노베이트 (프론트엔드 엔지니어)**
 *2024년 8월 - 현재*
 
 > **주요 성과: 팬 커머스 플랫폼(10만+ 유저)의 UI 아키텍처 및 렌더링 성능 최적화**
@@ -72,6 +72,10 @@
 * **아키텍처:** Builder 패턴 기반 선언적 UI 아키텍처 설계로 구현 시간 **87% 단축(1일 → 1시간 미만)**.
 * **결제 모듈:** 브랜드별로 분산된 결제 로직을 **5단계 플로우, 10개 에러 유형**으로 규격화해 공통 결제 모듈을 설계. 브랜드별 결제 코드 **2,300줄 → 30줄**, 연동 공수 **3일 → 1시간**.
 * **시스템 설계:** **4-Layer CSS 토큰 아키텍처**(Radix + CVA + Tailwind)로 10+ 브랜드 플랫폼 운영. 코드량 **83%+ 절감**, 신규 브랜드 온보딩 **1 man-day → 1시간 미만**.
+
+<div align="right">
+  <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
+</div>
 
 <br/>
 
@@ -90,7 +94,7 @@
 
 ## 💻 주요 프로젝트
 
-### **🪐 ZeroGravity (3D 감정 트래킹 플랫폼)**
+### **🪐 Zero Gravity (3D 감정 트래킹 플랫폼)**
 > **기술:** Next.js 15, React 19, TypeScript, Three.js (GLSL), pnpm Monorepo
 
 일상의 감정을 진화하는 3D 행성으로 시각화하여 감정 패턴 이해를 돕는 웹 플랫폼.

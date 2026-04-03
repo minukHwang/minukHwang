@@ -63,7 +63,7 @@
 
 ## 🚀 Work Experience
 
-### **LOTTE Innovate (Frontend Engineer)** &nbsp; <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
+### **LOTTE Innovate (Frontend Engineer)**
 *Aug 2024 - Present*
 
 > **Key Achievement: Optimized UI architecture & rendering performance for fan commerce platform (100k+ users)**
@@ -73,6 +73,9 @@
 * **Payment Module:** Engineered a unified payment module by formalizing **5-stage payment flow and 10 error types** across PC (iframe) and mobile (redirect), reducing per-brand integration code from **2,300 to 30 lines** and effort from **3 days to 1 hour**.
 * **System Design:** Established a **4-Layer CSS Token architecture** with Radix + CVA + Tailwind for a 10+ brand platform, reducing codebase by **83%+** and new brand onboarding from **1 man-day to under 1 hour**.
 
+<div align="right">
+  <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
+</div>
 
 <br/>
 
@@ -91,7 +94,7 @@
 
 ## 💻 Featured Projects
 
-### **🪐 ZeroGravity (3D Emotion Tracking Platform)**
+### **🪐 Zero Gravity (3D Emotion Tracking Platform)**
 > **Tech:** Next.js 15, React 19, TypeScript, Three.js (GLSL), pnpm Monorepo
 
 A web platform that helps users understand emotional patterns by visualizing daily moods as evolving 3D planets.
