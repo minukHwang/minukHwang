@@ -125,12 +125,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blond-phi-42.vercel.app/api?username=minukHwang&show_icons=true&theme=dark&hide_border=true&hide_rank=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blond-phi-42.vercel.app/api?username=minukHwang&show_icons=true&theme=dark&hide_border=true&hide_rank=true&v=2">
     <img src="https://github-readme-stats-blond-phi-42.vercel.app/api?username=minukHwang&show_icons=true&theme=default&hide_border=true&hide_rank=true" height="150" alt="stats graph" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blond-phi-42.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blond-phi-42.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=dark&hide_border=true&v=2">
     <img src="https://github-readme-stats-blond-phi-42.vercel.app/api/top-langs/?username=minukHwang&layout=compact&theme=default&hide_border=true" height="150" alt="languages graph" />
   </picture>
 </div>
