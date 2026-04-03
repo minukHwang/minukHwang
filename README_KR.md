@@ -63,7 +63,7 @@
 
 ## 🚀 경력
 
-### **롯데이노베이트 (프론트엔드 엔지니어)**
+### **롯데이노베이트 (프론트엔드 엔지니어)** &nbsp; <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
 *2024년 8월 - 현재*
 
 > **주요 성과: 팬 커머스 플랫폼(10만+ 유저)의 UI 아키텍처 및 렌더링 성능 최적화**
@@ -103,9 +103,8 @@
 * **인증:** **OAuth 2.0 + JWT**(액세스 15분 / 리프레시 30일) 기반 크로스 컨텍스트 인증 구현.
 
 <div align="right">
-  <a href="https://github.com/zerogravity-project/zerogravity-react">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.zerogv.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=flat-square" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>

@@ -63,7 +63,7 @@
 
 ## 🚀 Work Experience
 
-### **LOTTE Innovate (Frontend Engineer)**
+### **LOTTE Innovate (Frontend Engineer)** &nbsp; <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
 *Aug 2024 - Present*
 
 > **Key Achievement: Optimized UI architecture & rendering performance for fan commerce platform (100k+ users)**
@@ -104,9 +104,8 @@ A web platform that helps users understand emotional patterns by visualizing dai
 * **Auth:** Secured cross-context authentication via **OAuth 2.0 + JWT** (15-min access / 30-day refresh).
 
 <div align="right">
-  <a href="https://github.com/zerogravity-project/zerogravity-react">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.zerogv.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=flat-square" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>

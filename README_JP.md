@@ -63,7 +63,7 @@
 
 ## 🚀 職務経歴
 
-### **LOTTE Innovate（フロントエンドエンジニア）**
+### **LOTTE Innovate（フロントエンドエンジニア）** &nbsp; <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
 *2024年8月 - 現在*
 
 > **主な成果：ファンコマースプラットフォーム（10万人以上のユーザー）のUIアーキテクチャとレンダリングパフォーマンスを最適化**
@@ -103,9 +103,8 @@
 * **認証：** **OAuth 2.0 + JWT**（アクセス15分 / リフレッシュ30日）によるクロスコンテキスト認証を実装。
 
 <div align="right">
-  <a href="https://github.com/zerogravity-project/zerogravity-react">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.zerogv.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=flat-square" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
