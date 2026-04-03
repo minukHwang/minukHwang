@@ -71,7 +71,7 @@
 * **Performance Optimization:** Optimized sprite-based effects with a two-stage Sharp compression pipeline, reducing asset size by **75% (8MB → 2MB)**.
 * **Architecture:** Designed a declarative UI architecture using the Builder Pattern, reducing implementation time by **87% (1 day → under 1 hour)**.
 * **Payment Module:** Engineered a unified payment module by formalizing **5-stage payment flow and 10 error types** across PC (iframe) and mobile (redirect), reducing per-brand integration code from **2,300 to 30 lines** and effort from **3 days to 1 hour**.
-* **System Design:** Established a **4-Layer CSS Token architecture** with Radix + CVA + Tailwind for a 10+ brand platform, reducing component duplication by **83%+** and new brand onboarding from **1 man-day to under 1 hour**.
+* **System Design:** Established a **4-Layer CSS Token architecture** with Radix + CVA + Tailwind for a 10+ brand platform, reducing codebase by **~83%** and new brand onboarding from **1 man-day to under 1 hour**.
 
 
 <br/>
