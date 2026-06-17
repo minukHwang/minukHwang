@@ -72,6 +72,9 @@
 * **아키텍처:** Builder 패턴 기반 선언적 UI 아키텍처 설계로 구현 시간 **87% 단축(1일 → 1시간 미만)**.
 * **결제 모듈:** 브랜드별로 분산된 결제 로직을 **5단계 플로우, 10개 에러 유형**으로 규격화해 공통 결제 모듈을 설계. 브랜드별 결제 코드 **2,300줄 → 30줄**, 연동 공수 **3일 → 1시간**.
 * **시스템 설계:** **4-Layer CSS 토큰 아키텍처**(Radix + CVA + Tailwind)로 10+ 브랜드 플랫폼 운영. 코드량 **83%+ 절감**, 신규 브랜드 온보딩 **1 man-day → 1시간 미만**.
+* **품질 자동화:** Playwright + MSW 기반 결제 E2E 테스트를 구축하고 AI 보조 리포팅을 연동하여, 수동 QA 대비 3시간 → 2분으로 단축하고 배포 전 결함 10건(중복 주문 유발 가능한 이중 제출 버그 포함)을 사전 발견.
+* **실험:** Feature Flag 기반 로그인 유도 A/B 테스트를 설계하고 7단계 GA4 전환 퍼널을 구축하여, 멀티 앱 로그인 플로우 전반에서 추적 데이터를 유지.
+* **DX:** AI 보조 Git 자동화와 함께 Feature Flag 시스템을 도입하여 핫픽스 비율 15.4% → 0% 달성.
 
 <div align="right">
   <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
@@ -105,10 +108,13 @@
 * **번들 최적화:** Barrel export 구조 개선으로 3D를 사용하지 않는 페이지에 로드되던 Three.js 712KB 제거. First Load JS **58% 감소**, Lighthouse **66 → 97**.
 * **모노레포:** Next.js 웹과 Chrome 익스텐션(Vite + Manifest V3) 간 3D 컴포넌트 공유를 위한 `pnpm` 모노레포 구축.
 * **인증:** **OAuth 2.0 + JWT**(액세스 15분 / 리프레시 30일) 기반 크로스 컨텍스트 인증 구현.
+* **접근성:** WCAG 2.1 AA 모범 사례(skip navigation, ARIA, semantic HTML, reduced-motion) 적용으로 Lighthouse 접근성 점수 향상 (모바일 100, 데스크톱 95–100).
+* **백엔드 & AI:** Spring Boot REST API(5개 도메인, 14개 엔드포인트)를 직접 설계·구축하고 Gemini를 연동. Time-bucket 샘플링으로 토큰 사용량 97% 절감.
 
 <div align="right">
   <a href="https://www.zerogv.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=flat-square" /></a>
-  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/Frontend_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-backend"><img src="https://img.shields.io/badge/Backend_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
