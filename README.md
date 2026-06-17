@@ -108,12 +108,13 @@ A web platform that helps users understand emotional patterns by visualizing dai
 * **Bundle Optimization:** Resolved barrel export issue causing 712KB Three.js to load on non-3D pages, reducing First Load JS by **58%** and boosting Lighthouse score from **66 to 97**.
 * **Monorepo:** Structured a `pnpm` monorepo sharing 3D components between Next.js web and Chrome extension (Vite + Manifest V3).
 * **Auth:** Secured cross-context authentication via **OAuth 2.0 + JWT** (15-min access / 30-day refresh).
-* **Backend & AI:** Built a Spring Boot REST API (14 endpoints, 5 domains) with Gemini integration, using time-bucket sampling to cut token usage by 97%.
 * **Accessibility:** Raised Lighthouse accessibility (mobile 100, desktop 95–100) via WCAG 2.1 AA best practices.
+* **Backend & AI:** Built a Spring Boot REST API (14 endpoints, 5 domains) with Gemini integration, using time-bucket sampling to cut token usage by 97%.
 
 <div align="right">
   <a href="https://www.zerogv.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=flat-square" /></a>
-  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/Frontend_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-backend"><img src="https://img.shields.io/badge/Backend_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
