@@ -72,6 +72,9 @@
 * **アーキテクチャ：** Builderパターンを用いた宣言的UIアーキテクチャを設計し、実装時間を**87%短縮（1日 → 1時間未満）**。
 * **決済モジュール：** ブランド別に分散した決済ロジックを**5段階フロー・10種類のエラー**で規格化し共通決済モジュールを設計。ブランド別コード**2,300行 → 30行**、連携工数**3日 → 1時間**。
 * **システム設計：** **4-Layer CSSトークンアーキテクチャ**（Radix + CVA + Tailwind）で10+ブランドプラットフォームを運用。コード量**83%+削減**、新規ブランドオンボーディング**1 man-day → 1時間未満**。
+* **品質自動化：** Playwright + MSWによる決済E2Eテストを構築し、AI支援レポーティングを連携。手動QA比で3時間 → 2分に短縮し、リリース前に不具合10件（重複注文を引き起こしうる二重送信バグを含む）を事前検出。
+* **実験：** Feature Flagベースのログイン誘導A/Bテストを設計し、7イベントのGA4コンバージョンファネルを構築。マルチアプリのログインフロー全体でトラッキングを維持。
+* **DX：** AI支援Git自動化とともにFeature Flagシステムを導入し、ホットフィックス率を15.4% → 0%に削減。
 
 <div align="right">
   <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
@@ -105,10 +108,13 @@
 * **バンドル最適化：** Barrel export構造改善により3Dを使用しないページへのThree.js 712KB読み込みを解消。First Load JS **58%削減**、Lighthouse **66 → 97**。
 * **モノレポ：** Next.js WebとChrome拡張機能（Vite + Manifest V3）間で3DコンポーネントをシェアするためのPnpmモノレポを構築。
 * **認証：** **OAuth 2.0 + JWT**（アクセス15分 / リフレッシュ30日）によるクロスコンテキスト認証を実装。
+* **アクセシビリティ：** WCAG 2.1 AAのベストプラクティス（skip navigation、ARIA、semantic HTML、reduced-motion）を適用し、Lighthouseアクセシビリティスコアを向上（モバイル100、デスクトップ95–100）。
+* **バックエンド & AI：** Spring Boot REST API（5ドメイン、14エンドポイント）を設計・構築し、Geminiを連携。Time-bucketサンプリングでトークン使用量を97%削減。
 
 <div align="right">
   <a href="https://www.zerogv.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=flat-square" /></a>
-  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-react"><img src="https://img.shields.io/badge/Frontend_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/zerogravity-project/zerogravity-backend"><img src="https://img.shields.io/badge/Backend_Code-000000?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
