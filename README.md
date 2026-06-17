@@ -72,6 +72,9 @@
 * **Architecture:** Designed a declarative UI architecture using the Builder Pattern, reducing implementation time by **87% (1 day → under 1 hour)**.
 * **Payment Module:** Engineered a unified payment module by formalizing **5-stage payment flow and 10 error types** across PC (iframe) and mobile (redirect), reducing per-brand integration code from **2,300 to 30 lines** and effort from **3 days to 1 hour**.
 * **System Design:** Established a **4-Layer CSS Token architecture** with Radix + CVA + Tailwind for a 10+ brand platform, reducing codebase by **83%+** and new brand onboarding from **1 man-day to under 1 hour**.
+* **Quality Automation:** Built end-to-end payment testing (Playwright + MSW) with AI-assisted reporting, cutting equivalent QA from 3 hours to 2 minutes and catching 10 bugs before release.
+* **Experimentation:** Engineered a feature-flagged A/B test with a 7-event GA4 conversion funnel, keeping tracking intact across a multi-app login flow.
+* **DX:** Rolled out a Feature Flag system with AI-assisted Git automation, cutting hotfix rate from 15.4% to 0%.
 
 <div align="right">
   <a href="https://www.kottonseed.io"><img src="https://img.shields.io/badge/🌐_Live_Service-000000?style=flat-square" /></a>
@@ -105,6 +108,8 @@ A web platform that helps users understand emotional patterns by visualizing dai
 * **Bundle Optimization:** Resolved barrel export issue causing 712KB Three.js to load on non-3D pages, reducing First Load JS by **58%** and boosting Lighthouse score from **66 to 97**.
 * **Monorepo:** Structured a `pnpm` monorepo sharing 3D components between Next.js web and Chrome extension (Vite + Manifest V3).
 * **Auth:** Secured cross-context authentication via **OAuth 2.0 + JWT** (15-min access / 30-day refresh).
+* **Backend & AI:** Built a Spring Boot REST API (14 endpoints, 5 domains) with Gemini integration, using time-bucket sampling to cut token usage by 97%.
+* **Accessibility:** Raised Lighthouse accessibility (mobile 100, desktop 95–100) via WCAG 2.1 AA best practices.
 
 <div align="right">
   <a href="https://www.zerogv.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=flat-square" /></a>
