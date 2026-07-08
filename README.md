@@ -88,7 +88,7 @@
 > **Key Achievement: Enhanced user engagement through data-driven UX design**
 
 * **UX Strategy:** Spearheaded service planning for the pre-owned luxury market by analyzing user pain points and designing UX-driven flows.
-* **Growth:** Redesigned 'Style Challenge' reward mechanics, increasing unique user participation by **50% (2k → 3k)**.
+* **Engagement:** Redesigned 'Style Challenge' reward mechanics, increasing unique user participation by **50% (2k → 3k)**.
 * **Marketing:** Revamped Instagram strategy, enhancing content aesthetics and driving **20,000+ follower growth**.
 
 **→ Frontend Impact:** This experience shaped my approach to building UIs, I now design component APIs and user flows with conversion metrics and behavioral data in mind.
