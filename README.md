@@ -18,7 +18,7 @@
   <h3>Hi, I'm Minuk Hwang.</h3>
   
   <p>
-    I am a <b>Product-Minded Frontend Engineer</b> who bridges the gap between design, code, and business.<br>
+    I am a <b>Product-Minded Engineer</b> who bridges the gap between design, code, and business.<br>
     I build <b>scalable architectures</b> that optimize performance and contribute to <b>sustainable product growth.</b>
   </p>
 
