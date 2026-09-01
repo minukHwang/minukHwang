@@ -71,7 +71,7 @@
 * **Performance Optimization:** Optimized sprite-based effects with a two-stage Sharp compression pipeline, reducing asset size by **75% (8MB → 2MB)**.
 * **Architecture:** Designed a declarative UI architecture using the Builder Pattern, reducing implementation time by **87% (1 day → under 1 hour)**.
 * **Payment Module:** Engineered a unified payment module by formalizing **5-stage payment flow and 10 error types** across PC (iframe) and mobile (redirect), reducing per-brand integration code from **2,300 to 30 lines** and effort from **3 days to 1 hour**.
-* **System Design:** Established a **4-Layer CSS Token architecture** with Radix + CVA + Tailwind for a 10+ brand platform, reducing codebase by **83%+** and new brand onboarding from **1 man-day to under 1 hour**.
+* **System Design:** Established a **3-Layer CSS token architecture** with utility mapping and a Base + Styled component structure (Radix, CVA, Tailwind) across 10+ brands, reducing **duplicated brand-specific UI code by 83%** and new-brand onboarding from **1 man-day to under 1 hour**.
 * **Quality Automation:** Built end-to-end payment testing (Playwright + MSW) with AI-assisted reporting, cutting equivalent QA from 3 hours to 2 minutes and catching 10 bugs before release.
 * **Experimentation:** Engineered a feature-flagged A/B test with a 7-event GA4 conversion funnel, keeping tracking intact across a multi-app login flow.
 * **DX:** Rolled out a Feature Flag system with AI-assisted Git automation, cutting hotfix rate from 15.4% to 0%.
